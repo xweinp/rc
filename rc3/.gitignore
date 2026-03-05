@@ -1,0 +1,6 @@
+.venv
+__pycache__
+plot_rotated_hover.png
+plot_straight_hover.png
+plot_orientation_rotated_hover.png
+plot_orientation_straight_hover.png
